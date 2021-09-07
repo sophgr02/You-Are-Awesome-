@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-         // don't know if i need this section  -- messageLabel.text = ""
+         // don't know if i need this section  -- messageLabel.text =
        
     }
 
