@@ -40,6 +40,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="imageView" destination="Ufn-Hg-zNd" id="zGT-RG-UR5"/>
                         <outlet property="messageLabel" destination="1Fc-Jv-fg1" id="wzV-GR-p4e"/>
                     </connections>
                 </viewController>
