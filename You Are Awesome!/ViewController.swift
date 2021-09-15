@@ -69,6 +69,7 @@ class ViewController: UIViewController {
         }
     
     @IBAction func playSoundToggled(_ sender: UISwitch) {
+        //do not try to stop audioPlayer is still nil
         if !sender.isOn && audioPlayer != nil { // if the .isOn is NOT true
             audioPlayer.stop() //stop playing
             }
