@@ -74,6 +74,7 @@
                     <connections>
                         <outlet property="imageView" destination="Ufn-Hg-zNd" id="zGT-RG-UR5"/>
                         <outlet property="messageLabel" destination="1Fc-Jv-fg1" id="wzV-GR-p4e"/>
+                        <outlet property="playSoundSwitch" destination="Fjy-4P-VAd" id="P6b-8z-Up3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
